@@ -1,0 +1,3 @@
+C:/Users/matro/Desktop/UNB 2º SEMESTRE/EDA1/cmake-build-debug/CMakeFiles/EDA1.dir
+C:/Users/matro/Desktop/UNB 2º SEMESTRE/EDA1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matro/Desktop/UNB 2º SEMESTRE/EDA1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
